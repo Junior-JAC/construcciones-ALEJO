@@ -1,0 +1,39 @@
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Backups del proyecto
+img/logos_original.png
+img/*_tmp.png
+img/*_backup.*
+
+# Archivos de configuración con secretos (por si en el futuro agregas)
+.env
+.env.local
+*.key
+*.pem
+
+# Dependencias (por si más adelante usas npm)
+node_modules/
+package-lock.json
+yarn.lock
